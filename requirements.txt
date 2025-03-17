@@ -3,3 +3,5 @@ datasets
 torch
 numpy
 scikit-learn
+matplotlib
+pyqt6
